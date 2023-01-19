@@ -8,6 +8,8 @@ Liquorice is a basic text editor for educatinal purposes. In opposite
 to other text editors it has an alternate user interface concept: The
 editor is controlled only by control keys.
 
+![screenshot](screenshot.png)
+
 ## Features
 
 - ^C  ^X ^V ^A Default TextBox editing functions
